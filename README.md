@@ -1,6 +1,6 @@
-Rohit’s Retreat – Restaurant Website
-
-Welcome to Rohit’s Retreat, a fully responsive restaurant website that showcases an elegant design and seamless user experience. This project was built with a focus on performance, cross-browser compatibility, and intuitive navigation.
+<p align='center'>Rohit’s Retreat – Restaurant Website</p>
+</hr>
+<p align = 'center'>Welcome to Rohit’s Retreat, a fully responsive restaurant website that showcases an elegant design and seamless user experience.</p>
 
 <div align="center">
 
