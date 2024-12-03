@@ -13,7 +13,7 @@
 
 ### Demo Screeshots
 
-<img src="images/Dice.png" alt="Description of the image" width="100%" />
+<img src="projectRestaurant.jpg" alt="Description of the image" width="100%" />
 
 ### Prerequisites
 
