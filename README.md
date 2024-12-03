@@ -1,83 +1,46 @@
-<p align='center'>Rohit’s Retreat – Restaurant Website</p>
-___
-
-<p align = 'center'>Welcome to Rohit’s Retreat, a fully responsive restaurant website that showcases an elegant design and seamless user experience.</p>
-
 <div align="center">
+  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/grilli)
+  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/grilli?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/grilli?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
+  [![YouTube Video Views](https://img.shields.io/youtube/views/CjVGp5kGHxA?style=social)](https://youtu.be/CjVGp5kGHxA)
 
-## 🔗 [Live Demo](https://rohitnishanth.github.io/RohitRetreatRestaurant/)
+  <br />
+  <br />
+
+  <h2 align="center">Grilli - Restaurant Website</h2>
+
+  Grilli is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+
+  <a href="https://codewithsadee.github.io/grilli/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
+<br />
 
+### Demo Screeshots
 
+![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
-💻 Tech Stack
+### Prerequisites
 
-	•	Front-End: HTML5, CSS3, JavaScript
-	•	Design & Styling: CSS Flexbox, Grid, and Media Queries for responsiveness
-	•	Deployment: GitHub Pages
+Before you begin, ensure you have met the following requirements:
 
-✨ Features
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-	•	Responsive Design: Compatible across all devices (desktop, tablet, and mobile).
-	•	Online Booking System: Users can reserve tables directly from the website.
-	•	Intuitive Navigation: Easy access to the menu, services, and contact information.
-	•	Cross-Browser Compatibility: Tested and optimized for performance on major browsers.
-	•	SEO Optimized: Structured for better search engine visibility.
+### Run Locally
 
-📸 Screenshots
+To run **Grilli** locally, run this command on your git bash:
 
-Home Page	Menu Section	Booking Page
-		
+Linux and macOS:
 
-🚀 Installation & Setup
+```bash
+sudo git clone https://github.com/codewithsadee/grilli.git
+```
 
-	1.	Clone the repository:
+Windows:
 
-git clone https://github.com/RohitNishanth/RohitRetreatRestaurant.git  
-
-
-	2.	Navigate to the project directory:
-
-cd RohitRetreatRestaurant  
-
-
-	3.	Open the index.html file in your browser to view the website locally.
-
-🛠️ Project Structure
-
-RohitRetreatRestaurant/  
-├── index.html  
-├── style.css  
-├── script.js  
-├── images/  
-│   ├── logo.png  
-│   ├── menu.jpg  
-│   └── booking.jpg  
-└── README.md  
-
-📈 Performance Optimizations
-
-	•	Minimized CSS and JavaScript for faster load times.
-	•	Optimized images for web.
-	•	Used lazy loading techniques for non-critical assets.
-
-🤝 Contributions
-
-Contributions are welcome! If you have suggestions or improvements, feel free to fork the repo and submit a pull request.
-
-📧 Contact
-
-For any questions or collaboration opportunities, reach out at rohitns2003p@gmail.com.
-
-🌟 Acknowledgments
-
-	•	Special thanks to the Udemy Bootcamp for foundational training.
-	•	Inspiration from various restaurant websites and UI/UX design principles.
-
-Repo Customization Tips:
-
-	•	Add Badges: You can add status badges for license, build, or contributions.
-	•	Enable GitHub Pages: Go to your repo settings and select the branch (main) to deploy via GitHub Pages.
-	•	Add Labels & Issues: Create issues with labels like enhancement, bug, or help wanted to encourage contributions.
+```bash
+git clone https://github.com/codewithsadee/grilli.git
+```
