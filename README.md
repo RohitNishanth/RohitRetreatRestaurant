@@ -13,7 +13,7 @@
 
 ### Demo Screeshots
 
-![Rohit's Retreat](file:///Users/rohitmac/Downloads/projectRestaurant.jpg")
+<img src="images/Dice.png" alt="Description of the image" width="100%" />
 
 ### Prerequisites
 
