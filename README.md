@@ -13,7 +13,7 @@
 
 ### Demo Screeshots
 
-![](file:///Users/rohitmac/Downloads/projectRestaurant.jpg")
+![Rohit's Retreat](file:///Users/rohitmac/Downloads/projectRestaurant.jpg")
 
 ### Prerequisites
 
