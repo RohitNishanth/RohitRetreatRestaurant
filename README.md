@@ -11,10 +11,6 @@
 
 <br />
 
-### Demo Screeshots
-
-<img src="projectRestaurant.jpg" alt="Description of the image" width="100%" />
-
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
