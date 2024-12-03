@@ -23,16 +23,16 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Grilli** locally, run this command on your git bash:
+To run **Rohit's Retreat** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/grilli.git
+sudo git clone https://github.com/RohitNishanth/RohitRetreatRestaurant.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/grilli.git
+git clone https://github.com/RohitNishanth/RohitRetreatRestaurant.git
 ```
